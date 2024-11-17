@@ -3,6 +3,7 @@ let timerDuration = 25 * 60; // 25 minutes in seconds
 let timerInterval;
 
 // DOM elements
+//hi this is a change
 const timerDisplay = document.getElementById('timer');
 const startTimerBtn = document.getElementById('start-timer');
 const todoInput = document.getElementById('todo-input');
